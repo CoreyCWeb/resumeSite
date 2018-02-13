@@ -1,4 +1,4 @@
-baseURL = "http://coreyweber.ca/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Corey Weber"
 theme = "hugo-initio"
