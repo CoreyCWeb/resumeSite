@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://coreyweber.ca/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Corey Weber"
 theme = "hugo-initio"
 publishDir = "docs"
 
@@ -47,7 +47,7 @@ publishDir = "docs"
 
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/coreyweber/"
     icon = "fa-linkedin-square"
     footer = true
     sharethis = false

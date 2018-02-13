@@ -567,6 +567,25 @@ img {
   left: 100%;
   margin-left: 45px;
 }
+.ex-header{
+  margin-bottom: 30px;
+}
+
+.ex-header .ex-title{
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.ex-header .ex-subtitle {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: normal;
+  color: #a5a5a5;
+  margin: 0 0 15px 0;
+}
+
 .entry-header{
   margin-bottom: 50px;
 }
