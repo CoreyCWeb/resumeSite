@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 
 	var my_nav = $('.navbar-sticky'); 
-	var header = $('.lead');
+	var container = $('.container');
 	// grab the initial top offset of the navigation 
 	var sticky_navigation_offset_top = my_nav.offset().top;
 	
@@ -12,10 +12,10 @@ jQuery(document).ready(function($) {
 		// if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
 		if (scroll_top > sticky_navigation_offset_top) { 
 			my_nav.addClass( 'stick' );
-			header.addClass( 'addTop' );
+			container.addClass( 'addTop' );
 		} else {
 			my_nav.removeClass( 'stick' );
-			header.removeClass( 'addTop' );
+			container.removeClass( 'addTop' );
 		}   
 	};
 

@@ -11,4 +11,6 @@ Worked closely with company founders to prototype, design and develop public fac
 
 <!--more-->
 
-Became comfortable and knowledgable with front end web design and prototyping. Independently created scheduling, punch clock and POS software to save time, optimize labor costs, and gather crucial visitor information used for marketing and advertising.
+- Became comfortable and knowledgable with front end web design and prototyping. 
+
+- Independently created scheduling, punch clock and POS software to save time, optimize labor costs, and gather crucial visitor information used for marketing and advertising.
