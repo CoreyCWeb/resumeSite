@@ -29,8 +29,8 @@ publishDir = "docs"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
+    name = "about"
+    url = "/about/"
     weight = 5
 
 [params.disqus]
