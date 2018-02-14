@@ -6,20 +6,16 @@
             {{ partial "subheader.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.showServices }}
-            {{ partial "services.html" . }}
+        {{ if .Site.Params.showExperiences }}
+            {{ partial "experiences.html" . }}
         {{ end }}
 
         {{ if .Site.Params.showRecentWorks }}
             {{ partial "recentworks.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.showDownload }}
-            {{ partial "download.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.showClients }}
-            {{ partial "clients.html" . }}
+        {{ if .Site.Params.showResume }}
+            {{ partial "resume.html" . }}
         {{ end }}
 
 	</div>	<!-- /container -->

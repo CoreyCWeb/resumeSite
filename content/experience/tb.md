@@ -1,11 +1,19 @@
 +++
 title = "Thinking Big"
+weight = "1"
 position = "Web Developer"
-dateText = "May 2017 - June 2018"
+dateText = "October 2016 - Present"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Became proficient with various full-stack frameworks in order to maintain and develop web software for numerous clients at the same time.
+
+**Ionic & Angular 2 & Node, C# & .NET, PHP & SQL**
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Experience practicing Agile processes to ensure the development of software continuously meets client requirements.
+
+- Worked closely with designers and developer to create online forms with Adobe LiveCycle and Javascript to help enhance the  e-service applications of Veterans Affairs Canada.
+
+- Independently creating tools to automate testing and scripting of XML forms saving time, decreasing errors, and avoiding rework for the Veterans Affairs Forms department.
+

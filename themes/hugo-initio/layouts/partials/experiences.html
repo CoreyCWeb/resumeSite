@@ -3,7 +3,7 @@
     <h2 class="section-title"><span>Experience</span></h2>
 
     <div class="">
-        {{ range where .Data.Pages "Section" "experience" }}
+        {{ range where .Data.Pages.ByWeight "Section" "experience" }}
             <div class="col-sm-6 col-md-4">
                 <div class="ex-header">
                     <h3 class="ex-title">{{ .Title }}</h3>

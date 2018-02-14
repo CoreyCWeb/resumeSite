@@ -1,11 +1,14 @@
 +++
 title = "Maritime Fun"
-position = "Web Developer"
-dateText = "May 2017 - June 2018"
+weight = "3"
+position = "Web Designer & Developer"
+dateText = "June 2015 - November 2015"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Worked closely with company founders to prototype, design and develop public facing as well as internal websites for multiple amusement parks.
+
+**Bootstrap, jQuery, javascript, Angular 1, and php**
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Became comfortable and knowledgable with front end web design and prototyping. Independently created scheduling, punch clock and POS software to save time, optimize labor costs, and gather crucial visitor information used for marketing and advertising.

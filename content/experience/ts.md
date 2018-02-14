@@ -1,11 +1,15 @@
 +++
 title = "TimeShifts"
-position = "Web Developer"
-dateText = "May 2017 - June 2018"
+weight = "2"
+position = "Co-Founder & CTO"
+dateText = "January 2016 - October 2016"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Strategized the development as scrum master and Implemented modern multi-platform design as well as modern frameworks for scheduling software.
 
+**Material Design, Angular 1, JWTs and Python**
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Played a critical role in the completion of the Propel ICT Startup Accelerator, a competitive 12 week program that specializes in teaching lean business principles of sales, marketing, and growth to viable startups.
+- Received the Innovation PEI Excellence Award for being most likely to succeed from a group of 7 IT company presentations.  
+- Accepted into the StartUp Zone Incubator where mentorship, startup collaboration and key topical presentations expanded my business and technical knowledge.

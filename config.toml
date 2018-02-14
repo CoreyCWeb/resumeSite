@@ -16,10 +16,9 @@ publishDir = "docs"
     DateForm = "February 2, 2018"
 
     showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = false
+    showExperiences = true
+    showRecentWorks = false
+    showResume= true
 
     footerEnableContact = true
     footerEnableFollowme = true
