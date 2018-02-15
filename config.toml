@@ -12,7 +12,7 @@ publishDir = "docs"
     address = "www.coreyweber.ca"
     year = 2018
     background = ""
-    favicon = "images/gt_favicon.png"
+    favicon = "images/favicon.ico"
     DateForm = "February 2, 2018"
 
     showSubheader = true
