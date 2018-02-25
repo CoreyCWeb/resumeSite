@@ -5,10 +5,10 @@ weight = "3"
 
 ### TECHNICAL SKILLS
 
-**Front End:** HTML5, CSS, SASS, Semantic UI, Material Design, Ionic, Bootstrap, JQuery, Javascript <br/>
+**Front End:** HTML5, CSS, SASS, Semantic UI, Material Design, Ionic, Bootstrap, JQuery, Javascript<br/>
 **Frameworks:**  Angular 1 & 2 , C# & .NET <br/>
 **BackEnd:** NodeJS, .NET, PHP, Python, SQL, Mongo DB <br/>
-**Other:** Git Source control, Raygun Error logging, JWTs, Agile Processes, Industry styling guides & best practices. 
+**Other:** Git Source control, Raygun Error logging, JWTs, OAuth, Sockets,Agile, Industry styling guides & best practices. 
 
 ### EDUCATION
 
