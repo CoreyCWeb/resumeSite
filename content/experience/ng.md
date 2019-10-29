@@ -1,11 +1,11 @@
 +++
-title = "Maritime Fun"
-weight = "4"
-position = "Web Designer & Developer"
-dateText = "June 2015 - November 2015"
+title = "Nguvu Inc."
+weight = "1"
+position = "Lead Front-End Developer"
+dateText = "April 2018 - Present"
 +++
 
-Worked closely with company founders to prototype, design and develop public facing as well as internal websites for multiple amusement parks.
+Sole Front-End Developer
 
 **Bootstrap, jQuery, javascript, Angular 1, and php**
 

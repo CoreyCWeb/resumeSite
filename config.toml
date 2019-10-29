@@ -17,7 +17,7 @@ publishDir = "docs"
 
     showSubheader = true
     showExperiences = true
-    showRecentWorks = false
+    showRecentWorks = true
     showResume= true
 
     footerEnableContact = true
@@ -32,6 +32,10 @@ publishDir = "docs"
     name = "about"
     url = "/about/"
     weight = 5
+[[menu.main]]
+    name = "contact"
+    url = "/contact/email/"
+    weight = 6
 
 [params.disqus]
     site = "coreyweber.ca"
@@ -53,14 +57,14 @@ publishDir = "docs"
     network = "linkedin"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/coreyweb"
     icon = "fa-github"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:coreyweber11@gmail.com"
     icon = "fa-envelope"
     footer = true
     sharethis = false

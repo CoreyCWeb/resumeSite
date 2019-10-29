@@ -1,8 +1,8 @@
 +++
 title = "Thinking Big"
-weight = "1"
+weight = "2"
 position = "Web Developer"
-dateText = "October 2016 - Present"
+dateText = "October 2016 - April 2018"
 +++
 
 Became proficient with various full-stack frameworks in order to maintain and develop web software for numerous clients at the same time.

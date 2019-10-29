@@ -1,6 +1,6 @@
 +++
 title = "TimeShifts"
-weight = "2"
+weight = "3"
 position = "Co-Founder & CTO"
 dateText = "January 2016 - October 2016"
 +++
