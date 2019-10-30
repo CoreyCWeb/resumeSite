@@ -1,16 +1,16 @@
 +++
-title = "Nguvu Inc."
+title = "Nguvu"
 weight = "1"
 position = "Lead Front-End Developer"
 dateText = "April 2018 - Present"
 +++
 
-Sole Front-End Developer
+Sole Front-End Developer at Nguvu, a startup company creating a web app that motivates, engages and gamifies call center work for agents. Perform all Front-end roles from designing and prototyping the UX / UI of new features, to the HTML, CSS and JavaScript implementation and developement.
 
-**Bootstrap, jQuery, javascript, Angular 1, and php**
+**Design, UX, Angular, React, Material UI**
 
 <!--more-->
 
-- Became comfortable and knowledgable with front end web design and prototyping. 
+- Practiced the art of design, UX/UI and prototyping. 
 
-- Independently created scheduling, punch clock and POS software to save time, optimize labor costs, and gather crucial visitor information used for marketing and advertising.
+- Further gained skills in the startup tech space specifically in lead front-end developer and product owner responsibilities.

@@ -17,7 +17,7 @@ publishDir = "docs"
 
     showSubheader = true
     showExperiences = true
-    showRecentWorks = true
+    showRecentWorks = false
     showResume= true
 
     footerEnableContact = true
